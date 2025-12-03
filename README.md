@@ -5,11 +5,10 @@
 para adquirir información y he tomado cursos y conocimientos para prepararme en diversas áreas.</p> <br>
 
 <h3><ins>Entornos Laborales y Experiencia</ins></h3> 
-<pre>CompuCentro                                            Sabalito, Coto Brus
-Asistente informático y atención al cliente            Práctica profesional, 2019</pre>
-
-
-<p>  
+<pre>
+<b>CompuCentro</b>                                            Sabalito, Coto Brus
+<b>Asistente informático y atención al cliente            Práctica profesional</b>, 2019
+  
 ● Dar asistencia en la tienda y atención al cliente.
 ● Con mis supervisores, optimizar proceso de trabajo.
 ● Asistir a los clientes en el manejo de software, resolviendo consultas y ayudando en lo que solicitaran, 
@@ -17,7 +16,47 @@ como descarga de videos, audios, transcripción de texto y configuración.
 ● Manejo de software en las computadoras de los clientes, y auxiliarles en lo que querían hacer. Como lo 
 necesario para que realizaran sus trabajos, instalar programas y sistemas operativos, activar licencias, 
 actualización de software de diversos programas y en descarga de drivers con Windows 10.
-● Desarmar y armar equipo PC e impresoras.</p>
+● Desarmar y armar equipo PC e impresoras.
+</pre>
 
+<pre>
+<b>Van Der Laat y Jimenez</b>                                 Coyol de Alajuela, 2025
+<b>Ayudante de construcción</b>
+En si era tipo ingresar por recomendación, con un familiar mientras le ayudaba y aprendía
+• Cuando me cambiaron de jefe, andaba en limpieza
+• En ambos casos era necesario cargar cosas pesadas, no siempre se podía, pero se veía que se hacía y el cómo, 
+ya sea yo o alguien, pero de cargar cosas pesadas era inevitable, tales como sacos de cemento, de repello, 
+baldes con agua u otra cosa, entre otros
+</pre>
 
+<h3><ins>Educación</ins></h3>
+<pre>
+<b></p>CTP Umberto Melloni Campaninni</b>                          San Vito, Coto Brus, 2019
+Bachillerato en educación media. 
+Técnico Medio en la Modalidad Comercial y de Servicios
+  con Especialidad Informática en Soporte.
+</pre>
+
+<h3><ins>Cursos & Certificados</ins></h3>
+<ol>
+<li>Preparación de Bebidas(Coctelería) – IPEC, 2023</li>
+<li>Software de Aplicación - IPEC, 2023</li>
+<li>Técnicas de Secretariado - IPEC, 2024</li>
+<li>Servicio al Cliente - IPEC, 2024</li>
+<li>Atención al Cliente - ICTS, 2024</li>
+<li>Relaciones Humanas y Manejo de Conflictos - ICTS, 2024</li>
+<li>Mantenimiento de Equipos de Cómputo - IPEC, 2024</li>
+<li>Manipulación de alimentos - (vence 28 nov 2029)</li>
+</ol>
+
+<h3><ins>Habilidades Adicionales y Atributos. Experiencias no laborales</ins></h3>
+<pre>
+● Cocción económica, básica, sencilla como papas fritas, sopas, carne frita, carne empanizada(pollo, cerdo...),
+galletas suaves y duras, empanadas, confites, pizza…
+● Moler y secar alimentos como hojas (térmica o pasiva), chile, cebolla, ajo...
+● Facilidad para el uso y entendimiento de la tecnología
+● Curiosidad por lo existente; como para ir a investigar usos y beneficios de plantas, software, entre otros.
+● Conocimiento de diversas cosas
+● Mejorar de ciertas comidas  
+</pre>
 
