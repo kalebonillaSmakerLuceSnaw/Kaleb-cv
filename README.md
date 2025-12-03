@@ -1,12 +1,26 @@
+<!-- 
+Recuento propio 
+pre mayoria del texto ande fiel a como lo ponga
+br salto de linea
+b negrita
+"h" con algun #, tipo de titulo con tamaño
+ins para subrayar
+ol li, lista o relativo, con #
+ul li, lista sin #
+-->
 # Kaleb-CV Multifuncional
 <!-- #, en base a la cantidad de "#" consecutivos asi será, la compañera lo hizo hasta 3 veces, al rato tipo titulo --->
 <h2>Kaleb Sequeira Bonilla</h2>
-<p>Técnico medio en informática en soporte. Tengo conocimiento en tecnología, coctelería, cocina, plantas y software. Me gusta investigar 
+<p>Montes de Oca, San Pedro · +506 8632 2822 · <ins>kalebonilla2@gmail.com</ins></p>
+<p><sup>
+_______________________________________________________________________________________________________________________________________________________
+</sup></p>
+<p>Tengo conocimiento en tecnología, coctelería, cocina, plantas, software... Me gusta investigar 
 para adquirir información y he tomado cursos y conocimientos para prepararme en diversas áreas.</p> <br>
 
 <h3><ins>Entornos Laborales y Experiencia</ins></h3> 
 <pre>
-<b>CompuCentro</b>                                            Sabalito, Coto Brus
+<b>CompuCentro</b>                                            Sabalito, Coto Brus  
 <b>Asistente informático y atención al cliente            Práctica profesional</b>, 2019
   
 ● Dar asistencia en la tienda y atención al cliente.
