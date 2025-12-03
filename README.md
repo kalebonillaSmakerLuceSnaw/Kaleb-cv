@@ -8,6 +8,11 @@ ins para subrayar
 ol li, lista o relativo, con #
 ul li, lista sin #
 -->
+<br>
+<br>
+<p><b>Ayuda en la busqueda, PC CTRL+F, poner palabra clave a buscar</b></p>
+<br>
+<br>
 # Kaleb-CV Multifuncional
 <!-- #, en base a la cantidad de "#" consecutivos asi será, la compañera lo hizo hasta 3 veces, al rato tipo titulo --->
 <h2>Kaleb Sequeira Bonilla</h2>
