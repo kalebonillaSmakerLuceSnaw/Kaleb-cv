@@ -68,7 +68,7 @@ Técnico Medio en la Modalidad Comercial y de Servicios
 <li>Manipulación de alimentos - (vence 28 nov 2029)</li>
 </ol>
 
-<h3><ins>Habilidades Adicionales y Atributos. Experiencias no laborales</ins></h3>
+<h3><ins>Habilidades Adicionales y Atributos. Experiencias no laborales. Conocimientos </ins></h3>
 <pre>
 ● Cocción económica, básica, sencilla como papas fritas, sopas, carne frita, carne empanizada(pollo, cerdo...),
 galletas suaves y duras, empanadas, confites, pizza…
@@ -77,5 +77,7 @@ galletas suaves y duras, empanadas, confites, pizza…
 ● Curiosidad por lo existente; como para ir a investigar usos y beneficios de plantas, software, entre otros.
 ● Conocimiento de diversas cosas
 ● Mejorar de ciertas comidas  
+● Haber participado y aprendido de forma sencilla en electricidad (unión y pelado de cables, conexión de tomas, enchufes, switch, sartén eléctrica, algunas reparaciones diversas...), tuberías (unión y cortado de tubos)… básicamente algunos conocimientos generales que se le pueden asociar a la albañilería / ferretería
+  
 </pre>
 
