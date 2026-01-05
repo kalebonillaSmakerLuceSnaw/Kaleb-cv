@@ -69,7 +69,7 @@ Técnico Medio en la Modalidad Comercial y de Servicios
 <li>Manipulación de alimentos - (vence 28 nov 2029)</li>
 </ol>
 
-<h3>Discapacidad:</h3> <p>Autismo (TEA, asociado)</p>
+<h3>Discapacidad:</h3> <p>Autismo (TEA, asperger o asociado)</p>
 
 <h3><ins>Transporte sobre ruedas / vehículo </ins></h3>
 <pre>
@@ -85,9 +85,9 @@ galletas suaves y duras, empanadas, confites, pizza…
 ● Curiosidad por lo existente; como para ir a investigar usos y beneficios de plantas, software, entre otros.
 ● Conocimiento de diversas cosas
 ● Haber soldado con electrodo 6013, 6011  
-● Mejorar de ciertas comidas  
+● Mejorar ciertas comidas
 ● Haber participado y aprendido de forma sencilla en electricidad (unión y pelado de cables, conexión de tomas, enchufes, switch, sartén eléctrica, algunas reparaciones diversas...), tuberías (unión y cortado de tubos)… básicamente algunos conocimientos generales que se le pueden asociar a la albañilería / ferretería
-
+● SQL, Java, C++, Python, Power Bi, PSeint
 
   
 </pre>
