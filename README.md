@@ -22,6 +22,7 @@ ________________________________________________________________________________
 </sup></p>
 <p>Tengo conocimiento en tecnología, coctelería, cocina, plantas, software... Me gusta investigar 
 para adquirir información y he tomado cursos y conocimientos para prepararme en diversas áreas.</p> <br>
+<p>Dispuesto a intentarlo y aprender. <br> Cualquier cosa, se aceptan propuestas, a ver si el lugar me es accesible y si se anda dispuesto a ir</p>
 
 <h3><ins>Entornos Laborales y Experiencia</ins></h3> 
 <pre>
@@ -68,7 +69,12 @@ Técnico Medio en la Modalidad Comercial y de Servicios
 <li>Manipulación de alimentos - (vence 28 nov 2029)</li>
 </ol>
 
-<h3><ins>Habilidades Adicionales y Atributos. Experiencias no laborales. Conocimientos </ins></h3>
+<h3><ins>Transporte sobre ruedas </ins></h3>
+<pre>
+  Scooter eléctrico: capacidad máxima aproximada de distancia total 10km
+</pre>
+
+<h3><ins>Habilidades Adicionales y Atributos. Experiencias no laborales. Conocimientos. </ins></h3>
 <pre>
 ● Cocción económica, básica, sencilla como papas fritas, sopas, carne frita, carne empanizada(pollo, cerdo...),
 galletas suaves y duras, empanadas, confites, pizza…
@@ -79,6 +85,8 @@ galletas suaves y duras, empanadas, confites, pizza…
 ● Haber soldado con electrodo 6013, 6011  
 ● Mejorar de ciertas comidas  
 ● Haber participado y aprendido de forma sencilla en electricidad (unión y pelado de cables, conexión de tomas, enchufes, switch, sartén eléctrica, algunas reparaciones diversas...), tuberías (unión y cortado de tubos)… básicamente algunos conocimientos generales que se le pueden asociar a la albañilería / ferretería
+
+
   
 </pre>
 
