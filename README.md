@@ -76,6 +76,7 @@ galletas suaves y duras, empanadas, confites, pizza…
 ● Facilidad para el uso y entendimiento de la tecnología
 ● Curiosidad por lo existente; como para ir a investigar usos y beneficios de plantas, software, entre otros.
 ● Conocimiento de diversas cosas
+● Haber soldado con electrodo 6013, 6011  
 ● Mejorar de ciertas comidas  
 ● Haber participado y aprendido de forma sencilla en electricidad (unión y pelado de cables, conexión de tomas, enchufes, switch, sartén eléctrica, algunas reparaciones diversas...), tuberías (unión y cortado de tubos)… básicamente algunos conocimientos generales que se le pueden asociar a la albañilería / ferretería
   
