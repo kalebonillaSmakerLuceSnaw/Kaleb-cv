@@ -69,7 +69,9 @@ Técnico Medio en la Modalidad Comercial y de Servicios
 <li>Manipulación de alimentos - (vence 28 nov 2029)</li>
 </ol>
 
-<h3><ins>Transporte sobre ruedas </ins></h3>
+<h3>Discapacidad:</h3> <p>Autismo (TEA, asociado)</p>
+
+<h3><ins>Transporte sobre ruedas / vehículo </ins></h3>
 <pre>
   Scooter eléctrico: capacidad máxima para recorrer con carga máxima 10km
 </pre>
