@@ -71,7 +71,7 @@ Técnico Medio en la Modalidad Comercial y de Servicios
 
 <h3><ins>Transporte sobre ruedas </ins></h3>
 <pre>
-  Scooter eléctrico: capacidad máxima aproximada de distancia total 10km
+  Scooter eléctrico: capacidad máxima para recorrer con carga máxima 10km
 </pre>
 
 <h3><ins>Habilidades Adicionales y Atributos. Experiencias no laborales. Conocimientos. </ins></h3>
