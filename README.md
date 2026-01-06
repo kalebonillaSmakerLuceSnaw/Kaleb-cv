@@ -77,18 +77,16 @@ Técnico Medio en la Modalidad Comercial y de Servicios
 </pre>
 
 <h3><ins>Habilidades Adicionales y Atributos. Experiencias no laborales. Conocimientos. </ins></h3>
-<pre>
+<p>
 ● Cocción económica, básica, sencilla como papas fritas, sopas, carne frita, carne empanizada(pollo, cerdo...),
-galletas suaves y duras, empanadas, confites, pizza…
-● Moler y secar alimentos como hojas (térmica o pasiva), chile, cebolla, ajo...
-● Facilidad para el uso y entendimiento de la tecnología
-● Curiosidad por lo existente; como para ir a investigar usos y beneficios de plantas, software, entre otros.
-● Conocimiento de diversas cosas
-● Haber soldado con electrodo 6013, 6011  
-● Mejorar ciertas comidas
-● Haber participado y aprendido de forma sencilla en electricidad (unión y pelado de cables, conexión de tomas, enchufes, switch, sartén eléctrica, algunas reparaciones diversas...), tuberías (unión y cortado de tubos)… básicamente algunos conocimientos generales que se le pueden asociar a la albañilería / ferretería
-● SQL, Java, C++, Python, Power Bi, PSeint
-
-  
-</pre>
+galletas suaves y duras, empanadas, confites, pizza… <br>
+● Moler y secar alimentos como hojas (térmica o pasiva), chile, cebolla, ajo... <br>
+● Facilidad para el uso y entendimiento de la tecnología <br>
+● Curiosidad por lo existente; como para ir a investigar usos y beneficios de plantas, software, entre otros. <br>
+● Conocimiento de diversas cosas <br>
+● Haber soldado con electrodo 6013, 6011 <br>
+● Mejorar ciertas comidas <br>
+● SQL, Java, C++, Python, Power Bi, PSeint <br>
+● Haber participado y aprendido de forma sencilla en electricidad (unión y pelado de cables, conexión de tomas, enchufes, switch, sartén eléctrica, algunas reparaciones diversas...), tuberías (unión y cortado de tubos)… básicamente algunos conocimientos generales que se le pueden asociar a la albañilería / ferretería 
+</p>
 
