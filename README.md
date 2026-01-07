@@ -69,11 +69,11 @@ Técnico Medio en la Modalidad Comercial y de Servicios
 <li>Manipulación de alimentos - (vence 28 nov 2029)</li>
 </ol>
 
-<h3>Discapacidad:</h3> <p>Autismo (TEA, asperger o asociado)</p>
+<h3>Discapacidad:</h3> <p>Autismo (TEA, asperger o asociado) <br> Sin ayudas del gobierno, a pesar de la discapacidad. Lo normal seria pensar que se tiene ayudas del gobierno, en este caso no es así, a pesar que ande en las leyes, esas leyes parecen falsas al rechazar ayudar al que cumple los requisitos de eso, a pesar de tener las evidencias. Con mayor razón eso de búsqueda de empleo</p>
 
 <h3><ins>Transporte sobre ruedas / vehículo </ins></h3>
 <pre>
-  Scooter eléctrico: capacidad máxima para recorrer con carga máxima 10km
+  Scooter eléctrico: capacidad máxima para recorrer, con carga máxima, 10km o poco más
 </pre>
 
 <h3><ins>Habilidades Adicionales y Atributos. Experiencias no laborales. Conocimientos. </ins></h3>
