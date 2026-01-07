@@ -16,7 +16,7 @@ ul li, lista sin #
 # Kaleb-CV Multifuncional
 <!-- #, en base a la cantidad de "#" consecutivos asi será, la compañera lo hizo hasta 3 veces, al rato tipo titulo --->
 <h2>Kaleb Sequeira Bonilla</h2>
-<p>Montes de Oca, San Pedro · +506 8632 2822 · <ins>kalebonilla2@gmail.com</ins></p>
+<p>Montes de Oca, San Pedro, cerca de la UCR · +506 8632 2822 · <ins>kalebonilla2@gmail.com</ins></p>
 <p><sup>
 _______________________________________________________________________________________________________________________________________________________
 </sup></p>
@@ -69,13 +69,6 @@ Técnico Medio en la Modalidad Comercial y de Servicios
 <li>Manipulación de alimentos - (vence 28 nov 2029)</li>
 </ol>
 
-<h3>Discapacidad:</h3> <p>Autismo (TEA, asperger o asociado) <br> Sin ayudas del gobierno, a pesar de la discapacidad. Lo normal seria pensar que se tiene ayudas del gobierno, en este caso no es así, a pesar que ande en las leyes, esas leyes parecen falsas al rechazar ayudar al que cumple los requisitos de eso, a pesar de tener las evidencias. Con mayor razón eso de búsqueda de empleo</p>
-
-<h3><ins>Transporte sobre ruedas / vehículo </ins></h3>
-<pre>
-  Scooter eléctrico: capacidad máxima para recorrer, con carga máxima, 10km o poco más
-</pre>
-
 <h3><ins>Habilidades Adicionales y Atributos. Experiencias no laborales. Conocimientos. </ins></h3>
 <p>
 ● Cocción económica, básica, sencilla como papas fritas, sopas, carne frita, carne empanizada(pollo, cerdo...),
@@ -87,6 +80,20 @@ galletas suaves y duras, empanadas, confites, pizza… <br>
 ● Haber soldado con electrodo 6013, 6011 <br>
 ● Mejorar ciertas comidas <br>
 ● SQL, Java, C++, Python, Power Bi, PSeint <br>
-● Haber participado y aprendido de forma sencilla en electricidad (unión y pelado de cables, conexión de tomas, enchufes, switch, sartén eléctrica, algunas reparaciones diversas...), tuberías (unión y cortado de tubos)… básicamente algunos conocimientos generales que se le pueden asociar a la albañilería / ferretería 
+● Haber participado y aprendido de forma sencilla en electricidad (unión y pelado de cables, conexión de tomas, enchufes, switch, sartén eléctrica, algunas reparaciones 
+  diversas...), tuberías (unión y cortado de tubos)… básicamente algunos conocimientos generales que se le pueden asociar a la albañilería / ferretería 
 </p>
+
+<h3><ins>Transporte sobre ruedas / vehículo </ins></h3>
+<pre>
+  Scooter eléctrico: capacidad máxima para recorrer, con carga máxima, 10km o poco más
+</pre>
+
+<h3>Discapacidad:</h3> <p>Autismo (TEA, asperger o asociado) <br> Sin ayudas del gobierno, a pesar de la discapacidad. Lo normal seria pensar que se tiene ayudas del gobierno, en este caso no es así, a pesar que ande en las leyes, esas leyes parecen falsas al rechazar ayudar al que cumple los requisitos de eso, a pesar de tener las evidencias, al tratar se notaba que se negaban a darlo sin importar nada, siempre buscaban alguna excusa para decir no y la eterna espera que nunca daban resultados a favor. Con mayor razón eso de búsqueda de empleo</p>
+
+
+
+
+
+
 
