@@ -89,6 +89,8 @@ galletas suaves y duras, empanadas, confites, pizza… <br>
   Scooter eléctrico: capacidad máxima para recorrer, con carga máxima, 10km o poco más
 </pre>
 
+<h3> Estudiando: </h3> <p> Viernes de 6 a 9pm, modalidad virtual, inicio 16/1/2026, 14 meses de duración</p>
+
 <h3>Discapacidad:</h3> <p>Autismo (TEA, asperger o asociado) <br> Sin ayudas del gobierno, a pesar de la discapacidad. Lo normal seria pensar que se tiene ayudas del gobierno, en este caso no es así, a pesar que ande en las leyes, esas leyes parecen falsas al rechazar ayudar al que cumple los requisitos de eso, a pesar de tener las evidencias, al tratar se notaba que se negaban a darlo sin importar nada, siempre buscaban alguna excusa para decir no y la eterna espera que nunca daban resultados a favor. Con mayor razón eso de búsqueda de empleo</p>
 
 
