@@ -84,9 +84,13 @@ galletas suaves y duras, empanadas, confites, pizza… <br>
   diversas...), tuberías (unión y cortado de tubos)… básicamente algunos conocimientos generales que se le pueden asociar a la albañilería / ferretería 
 </p>
 
-<h3><ins>Transporte sobre ruedas / vehículo </ins></h3>
+
+<h3><ins>Transporte: </ins></h3>
 <pre>
-  Scooter eléctrico: capacidad máxima para recorrer, con carga máxima, 10km o poco más
+  (Disponibilidad en base a la ocasión)
+  Transporte publico
+  Caminando (caminata rápida)
+  Scooter eléctrico: capacidad máxima para recorrer, con bateria cargado al máximo, 10km o poco más
 </pre>
 
 <h3> Estudiando: </h3> <p> Viernes de 6 a 9pm, modalidad virtual, inicio 16/1/2026, 14 meses de duración</p>
