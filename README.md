@@ -80,8 +80,8 @@ galletas suaves y duras, empanadas, confites, pizza… <br>
 ● Haber soldado con electrodo 6013, 6011 <br>
 ● Mejorar ciertas comidas <br>
 ● SQL, Java, C++, Python, Power Bi, PSeint <br>
-● Haber participado y aprendido de forma sencilla en electricidad (unión y pelado de cables, conexión de tomas, enchufes, switch, sartén eléctrica, algunas reparaciones 
-  diversas...), tuberías (unión y cortado de tubos)… básicamente algunos conocimientos generales que se le pueden asociar a la albañilería / ferretería 
+● Haber participado y aprendido de forma sencilla en electricidad (unión y pelado de cables, conexión de tomas, enchufes, switch, sartén eléctrica, algunas reparaciones...), agua (unión y cortado de tubos, instalado llaves)… conocimiento y manejo de herramientas (tester, esmeriladora, taladro, tipos de brocas…), básicamente algunos conocimientos generales que se le pueden asociar a la albañilería / ferretería
+● Agricultura: haber hecho germinar varias plantas desde el tallo, análisis de ciertas reglas de las plantas, poco cuidado pero funcional a las plantas, reconocimiento de las plantas, usos medicinales de las plantas, sino lo que se ocupa se investiga.
 </p>
 
 
