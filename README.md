@@ -84,6 +84,7 @@ galletas suaves y duras, empanadas, confites, pizza… <br>
 ● Agricultura: haber hecho germinar varias plantas desde el tallo, análisis de ciertas reglas de las plantas, poco cuidado pero funcional a las plantas, reconocimiento de las plantas, usos medicinales de las plantas, sino lo que se ocupa se investiga.
 </p>
 
+<h3>Expectativa salarial:</h3> <p>El que consideren, dispuesto a oir propuestas</p>
 
 <h3><ins>Transporte: </ins></h3>
 <pre>
@@ -93,7 +94,7 @@ galletas suaves y duras, empanadas, confites, pizza… <br>
   Scooter eléctrico: capacidad máxima para recorrer, con bateria cargado al máximo, 10km o poco más
 </pre>
 
-<h3> Estudiando: </h3> <p> Viernes de 6 a 9pm, modalidad virtual, inicio 16/1/2026, 14 meses de duración</p>
+<h3> Estudiando: </h3> <p> Viernes de 6pm a 9pm, modalidad virtual, inicio 16/1/2026, 14 meses de duración</p>
 
 <h3>Discapacidad:</h3> <p>Autismo (TEA, asperger o asociado) <br> Se tiene comprobantes de eso del gobierno. Sin ayudas del gobierno, a pesar de la discapacidad. Lo normal seria pensar que se tiene ayudas del gobierno, en este caso no es así, a pesar que ande en las leyes, esas leyes parecen falsas al rechazar ayudar al que cumple los requisitos de eso, a pesar de tener las evidencias, al tratar se notaba que se negaban a darlo sin importar nada, siempre buscaban alguna excusa para decir no y la eterna espera que nunca daban resultados a favor. Si dicen que se ve con capacidad o no se nota, es porque no quedó de otra, dado que las cosas no eran fáciles y no había opción, no como aquellos que se las dejaron fáciles y les alcahueteaban muchas cosas, sin socarlos o no tanto, de lo contrario andarían menos evidente de eso de la discapacidad, así como tener algo que les facilitara lo que sea ya sea con o sin capacidad, facilidades en algo necesario. <br> Con mayor razón varias cosas en contra y necesarias, eso de búsqueda de empleo</p>
 
