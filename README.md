@@ -53,12 +53,11 @@ baldes con agua u otra cosa, entre otros
 <pre>
 <b></p>CTP Umberto Melloni Campaninni</b>                          San Vito, Coto Brus, 2019
 Bachillerato en educación media. 
-Técnico Medio en la Modalidad Comercial y de Servicios
-  con Especialidad Informática en Soporte.
 </pre>
 
 <h3><ins>Cursos & Certificados</ins></h3>
 <ol>
+<li>Técnico Medio en la Modalidad Comercial y de Servicios con Especialidad Informática en Soporte - UMEC, 2019 <li>
 <li>Preparación de Bebidas(Coctelería) – IPEC, 2023</li>
 <li>Software de Aplicación - IPEC, 2023</li>
 <li>Técnicas de Secretariado - IPEC, 2024</li>
