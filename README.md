@@ -91,7 +91,7 @@ galletas suaves y duras, empanadas, confites, pizza… <br>
   (Disponibilidad en base a la ocasión)
   Transporte publico
   Caminando (caminata rápida)
-  Scooter eléctrico: capacidad máxima para recorrer, con bateria cargado al máximo, 10km o poco más
+  Scooter eléctrico serpento s2: capacidad máxima para recorrer, con bateria cargado al máximo, 10km aprox
 </pre>
 
 <h3> Estudiando: </h3> <p> Viernes de 6pm a 9pm, modalidad virtual, inicio 16/1/2026, 14 meses de duración</p>
