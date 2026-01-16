@@ -58,6 +58,8 @@ Bachillerato en educación media.
 <h3><ins>Cursos & Certificados</ins></h3>
 <ol>
 <li>Técnico Medio en la Modalidad Comercial y de Servicios con Especialidad Informática en Soporte - UMEC, 2019 </li>
+<!-- Técnico en Salud Ocupacional - IPEA, 2027  -->
+<!-- Técnico en Administración y Recursos Humanos – Grupo Bretea y Academia Éxito, 2026 -->
 <li>Preparación de Bebidas(Coctelería) – IPEC, 2023</li>
 <li>Software de Aplicación - IPEC, 2023</li>
 <li>Técnicas de Secretariado - IPEC, 2024</li>
