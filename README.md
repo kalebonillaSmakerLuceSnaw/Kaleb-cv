@@ -86,6 +86,10 @@ galletas suaves y duras, empanadas, confites, pizza… <br>
 ● Agricultura: haber hecho germinar varias plantas desde el tallo, análisis de ciertas reglas de las plantas, poco cuidado pero funcional a las plantas, reconocimiento de las plantas, usos medicinales de las plantas, sino lo que se ocupa se investiga.
 </p>
 
+<p>Si por alguna razón no reviso el correo, considerarlo normal, dado que es poco probable que mire algo ahí, además de andar suscrito en varias paginas como de empleo a ver si consigo algo, lo cual genera mucho correo basura con tanta notificación innecesaria que ponen
+Seria más efectivo desde WhatsApp, cualquier cosa aquí se actualizará el #
+</p>
+
 <h3>Expectativa salarial:</h3> <p>El que consideren, dispuesto a oir propuestas</p>
 
 <h3> Estudiando: </h3> <p> Viernes de 6pm a 9pm, modalidad virtual, inicio 16/1/2026, 14 meses de duración</p>
