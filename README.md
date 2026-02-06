@@ -77,15 +77,15 @@ galletas suaves y duras, empanadas, confites, pizza… <br>
 ● Moler y secar alimentos como hojas (térmica o pasiva), chile, cebolla, ajo... <br>
 ● Facilidad para el uso y entendimiento de la tecnología <br>
 ● Curiosidad por lo existente; como para ir a investigar usos y beneficios de plantas, software, entre otros. <br>
-● Conocimiento de diversas cosas <br>
+● <b>Conocimiento de diversas cosas </b> <br>
 ● Haber soldado con electrodo 6013, 6011 <br>
 ● Mejorar ciertas comidas <br>
 ● Haber hecho ediciones de imágenes, publicidad sencilla, creación de memes(la risa puede atraer), generado y armado imágenes de manera personal con varios programas.
 ● SQL, Java, C++, Python, Power Bi, PSeint <br>
-● Haber participado y aprendido de forma sencilla en electricidad (unión y pelado de cables, conexión de tomas, enchufes, switch, sartén eléctrica, algunas reparaciones...), agua (unión y cortado de tubos, instalado llaves)… conocimiento y manejo de herramientas (tester, esmeriladora, taladro, tipos de brocas…), básicamente algunos conocimientos generales que se le pueden asociar a la albañilería / ferretería <br>
-● Agricultura: haber hecho germinar varias plantas desde el tallo, análisis de ciertas reglas de las plantas, poco cuidado pero funcional a las plantas, reconocimiento de las plantas, usos medicinales de las plantas, sino lo que se ocupa se investiga. <br>
-● Cuando he visto la ocasión, he podido, me he puesto a guiar, liderar, aun más cuando las cosas parecen estancarse, no se ocupa mucho, solo ver que andan de acuerdo en general, tipo que siga el flujo. <br>
-● En algunas cosas he visto ciertas cosas que se ocupan no necesariamente tan notorias, doy consejo, busco alguna solución si anda a mi alcance o doy posibles ideas, que cada quien filtre si le sirve o no, ejemplo para señalar algo, en vez de confiarse de usar los dedos a la distancia que queda confuso, prefiero que se use un rayo laser para indicar con precisión donde es, una vez que andaba en el colegio presentando, poco antes de presentar al docente le dije un código para saber cuando avanzar, era un aplauso, avance de pagina. <br>
+● Haber participado y aprendido de forma <b> sencilla </b> en <b> electricidad </b> (unión y pelado de cables, conexión de tomas, enchufes, switch, sartén eléctrica, algunas <b> reparaciones </b>...), agua (unión y cortado de tubos, instalado llaves)… <b> conocimiento y manejo de herramientas </b> (tester, esmeriladora, taladro, tipos de brocas…), básicamente algunos <b> conocimientos generales </b> que se le pueden asociar a la albañilería / ferretería <br>
+● <b> Agricultura: </b> haber hecho germinar varias plantas desde el tallo, análisis de ciertas reglas de las plantas, poco cuidado pero funcional a las plantas, reconocimiento de las plantas, usos medicinales de las plantas, sino lo que se ocupa se investiga. <br>
+● <b> Liderazgo: </b>  Cuando he visto la ocasión, he podido, me he puesto a guiar, liderar, aun más cuando las cosas parecen estancarse, no se ocupa mucho, solo ver que andan de acuerdo en general, tipo que siga el flujo. <br>
+● Solicitud de confirmación de lo que se pide o aclaración, facilitando y evitando posibles errores, dar sugerencias. En algunas cosas he visto ciertas cosas que se ocupan no necesariamente tan notorias, doy consejo, busco alguna solución si anda a mi alcance o doy posibles ideas, que cada quien filtre si le sirve o no, ejemplo para señalar algo, en vez de confiarse de usar los dedos a la distancia que queda confuso, prefiero que se use un rayo laser para indicar con precisión donde es, una vez que andaba en el colegio presentando, poco antes de presentar al docente le dije un código para saber cuando avanzar, era un aplauso, avance de pagina. <br>
 </p>
 
 <p>Si por alguna razón no reviso el correo, considerarlo normal, dado que es poco probable que mire algo ahí, además de andar suscrito en varias paginas como de empleo a ver si consigo algo, lo cual genera mucho correo basura con tanta notificación innecesaria que ponen
