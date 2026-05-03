@@ -15,7 +15,7 @@ ul li, lista sin #
 <br>
 # Kaleb-CV Multifuncional
 <!-- #, en base a la cantidad de "#" consecutivos asi será, la compañera lo hizo hasta 3 veces, al rato tipo titulo --->
-<h2>Kaleb Sequeira Bonilla</h2>
+<h2>Kaleb Yisrael Sequeira Bonilla</h2>
 <p>Montes de Oca, San Pedro, cerca de la UCR · +506 8632 2822 · <ins>kalebonilla2@gmail.com</ins></p>
 <p><sup>
 _______________________________________________________________________________________________________________________________________________________
