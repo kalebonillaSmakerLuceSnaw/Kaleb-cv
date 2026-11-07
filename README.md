@@ -80,7 +80,7 @@ Seria más efectivo desde WhatsApp, cualquier cosa aquí se actualizará el #
 
 <h3>Expectativa salarial:</h3> <p>El que consideren, dispuesto a oir propuestas</p>
 
-<h3> Estudiando: </h3> <p> Viernes de 6pm a 9pm, modalidad virtual sincrónica, inicio 16/1/2026, 14 meses de duración, en el IPEA</p>
+<!-- <h3> Estudiando: </h3> <p> Viernes de 6pm a 9pm, modalidad virtual sincrónica, inicio 16/1/2026, 14 meses de duración, en el IPEA</p> -->
 
 <h3>Discapacidad:</h3> <p>Autismo (TEA, asperger o asociado, tipo cognitivo) <br> Se tiene comprobantes de eso del gobierno. Sin ayudas del gobierno, a pesar de la discapacidad.
 </p>
